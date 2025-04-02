@@ -20,9 +20,6 @@ Acesse a Landing Page: https://arquitetura-desafio1-dnc.netlify.app/
 
 Clone o repositório: git clone https://github.com/danielfabio09/RID215360_Desafio1.git
 
-Acesse a pasta do projeto:
-cd RID215360_Desafio1
-
 Acesse a planilha de dados: https://docs.google.com/spreadsheets/d/1YZcCZyjLEKhJGKbP8_OXTLpi5inrIR7fxeUJ8omN2C4/edit?usp=sharing
 
 Abra o arquivo index.html em seu navegador.
