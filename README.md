@@ -16,10 +16,9 @@ Esta é uma landing page desenvolvida para uma empresa de arquitetura, com o obj
 
 - Como Utilizar
 
-Acesse a Landing Page:
+Acesse a Landing Page: https://arquitetura-desafio1-dnc.netlify.app/
 
-Clone o repositório:
-git clone https://github.com/danielfabio09/RID215360_Desafio1.git
+Clone o repositório: git clone https://github.com/danielfabio09/RID215360_Desafio1.git
 
 Acesse a pasta do projeto:
 cd RID215360_Desafio1
